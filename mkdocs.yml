@@ -8,7 +8,8 @@ theme:
 
 nav:
     - Home: index.md
-    - About: about.md
+    # - About: about.md
+    # - KGM: https://gyrohammer.github.io/KGM
 
 markdown_extensions:
   - admonition
