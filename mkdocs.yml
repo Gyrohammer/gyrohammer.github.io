@@ -1,0 +1,28 @@
+site_name: Max Young Project Centre
+theme:
+  name: material
+  palette:
+    primary: blue
+  features:
+    - content.code.copy
+
+nav:
+    - Home: index.md
+    - About: about.md
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - smarty
+  - meta
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: True
+  - markdown_include.include:
+      base_path: docs
+  
+
+repo_url: https://github.com/Gyrohammer/gyrohammer.github.io
+repo_name: gyrohammer/gyrohammer.github.io
