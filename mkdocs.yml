@@ -21,9 +21,6 @@ markdown_extensions:
   - tables
   - toc:
       permalink: True
-  - markdown_include.include:
-      base_path: docs
-  
-
+      
 repo_url: https://github.com/Gyrohammer/gyrohammer.github.io
 repo_name: gyrohammer/gyrohammer.github.io
