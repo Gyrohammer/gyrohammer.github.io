@@ -1,6 +1,6 @@
 # Welcome to my Emporium!
 
-## [Porfolio]((https://gyrohammer.github.io/portfolio/){target=_blank})
+## [Porfolio](https://gyrohammer.github.io/portfolio/){target=_blank}
 A professional look at my experience, projects, and roles throughout my career. 
 
 ## [Kobra Go Mods](https://gyrohammer.github.io/KGM/){target=_blank}
